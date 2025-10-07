@@ -68,6 +68,7 @@
             FillButton.TabIndex = 3;
             FillButton.Text = "Fill";
             FillButton.UseVisualStyleBackColor = true;
+            FillButton.Click += FillButton_Click;
             // 
             // Form1
             // 
